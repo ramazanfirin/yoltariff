@@ -1,0 +1,191 @@
+<com.yoltarif.model.LineWrapper>
+  <lineList>
+    <com.yoltarif.model.Line>
+      <name>495-KIRANARDI  ENDÜRLÜK GİDİŞ</name>
+      <endStation/>
+      <stationList class="linked-hash-set"/>
+      <sortedStationList>
+        <com.yoltarif.model.Station>
+          <name>0</name>
+          <wkt>POINT( 4287455.00 455862.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>duvenonu</name>
+          <wkt>POINT( 4287696.00 455103.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KALEONU</name>
+          <wkt>POINT( 4287875.00 455639.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>Ahi Evran Zaviyesi</name>
+          <wkt>POINT( 4287169.00 456105.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 1 KARTAL</name>
+          <wkt>POINT( 4286626.00 456188.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 2 HAVA IKMAL 1.KAPI</name>
+          <wkt>POINT( 4286172.00 456192.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 3 UST GECIT</name>
+          <wkt>POINT( 4285857.00 456040.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 4</name>
+          <wkt>POINT( 4285566.00 455941.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 5 ESENYURT SAGLIK OCAGI</name>
+          <wkt>POINT( 4285285.00 456005.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 6 2.NIZAMIYE</name>
+          <wkt>POINT( 4285009.00 456087.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 7</name>
+          <wkt>POINT( 4284681.00 456190.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 8 ASKERI HASTANE</name>
+          <wkt>POINT( 4284317.00 456306.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 9 ZEYNEL ABIDIN KURAN KURSU</name>
+          <wkt>POINT( 4284019.00 456333.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU GEDIRIS 1</name>
+          <wkt>POINT( 4283539.00 456360.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 11 GEDIRIS 2</name>
+          <wkt>POINT( 4283270.00 456384.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 13 POLIS EVI</name>
+          <wkt>POINT( 4282222.00 456879.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 14 SEMSEDDIN</name>
+          <wkt>POINT( 4281894.00 457166.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 15 MAHMUTAGA SOK.</name>
+          <wkt>POINT( 4281605.00 457389.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 16 GULLE CAMI</name>
+          <wkt>POINT( 4281368.00 457579.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 17 HISARCIK GIRIS</name>
+          <wkt>POINT( 4281097.00 457710.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 18 MEKKE DURAGI</name>
+          <wkt>POINT( 4280828.00 457762.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 19 PASA BAGLARI CAMI</name>
+          <wkt>POINT( 4280393.00 457946.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 20 DEMIRKAPI</name>
+          <wkt>POINT( 4279951.00 458030.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 21 HISARCIK SAGLIK OCAGI</name>
+          <wkt>POINT( 4279674.00 458005.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 22 BAHCELIEVLER</name>
+          <wkt>POINT( 4279419.00 457980.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 23 BELEDIYE LOJMANLARI</name>
+          <wkt>POINT( 4279027.00 457943.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 24 F.CAKMAK ILK.</name>
+          <wkt>POINT( 4278806.00 457922.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>HISARCIK YOLU 25 HACILAR YOL AYRIMI</name>
+          <wkt>POINT( 4278582.00 457930.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KIRANARDI MEZBA</name>
+          <wkt>POINT( 4278262.00 458227.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KIRANARDI ILK.OGRETIM OKULU</name>
+          <wkt>POINT( 4278259.00 458449.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KIRANARDI MEYDAN</name>
+          <wkt>POINT( 4278164.00 458557.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KIRANARDI ICI 1</name>
+          <wkt>POINT( 4277903.00 458580.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KIRANARDI ICI 2</name>
+          <wkt>POINT( 4277768.00 458734.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KIRANARDI ICI 3</name>
+          <wkt>POINT( 4277612.00 458884.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KIRANARDI ICI 4</name>
+          <wkt>POINT( 4277440.00 458978.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KIRANARDI ICI 5</name>
+          <wkt>POINT( 4277247.00 459077.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KIRANARDI ICI 6</name>
+          <wkt>POINT( 4276944.00 459184.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KIRANARDI ICI 7</name>
+          <wkt>POINT( 4277185.00 459268.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KIRANARDI ICI 8</name>
+          <wkt>POINT( 4277346.00 459243.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KIRANARDI ICI 9</name>
+          <wkt>POINT( 4277531.00 459128.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KIRANARDI ICI 10</name>
+          <wkt>POINT( 4277872.00 459165.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KIRANARDI ICI 11 CAMI</name>
+          <wkt>POINT( 4278204.00 459119.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KIRANARDI ICI 12</name>
+          <wkt>POINT( 4278100.00 459446.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KIRANARDI ICI 13</name>
+          <wkt>POINT( 4278057.00 459709.00 )</wkt>
+        </com.yoltarif.model.Station>
+        <com.yoltarif.model.Station>
+          <name>KIRANARDI ICI 14</name>
+          <wkt>POINT( 4277987.00 459869.00 )</wkt>
+        </com.yoltarif.model.Station>
+      </sortedStationList>
+    </com.yoltarif.model.Line>
+  </lineList>
+</com.yoltarif.model.LineWrapper>
